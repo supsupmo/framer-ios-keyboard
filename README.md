@@ -9,7 +9,7 @@ Because sometimes we all need to simulate typing in our framer prototypes.
 
 ## Demo GIF
 
-![]https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.gif
+![](https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.gif)
 
 ## Usage
 
