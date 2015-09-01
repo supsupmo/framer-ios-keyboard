@@ -11,6 +11,8 @@ Because sometimes we all need to simulate typing in our framer prototypes.
 
 ![](https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.gif)
 
+The GIF is a little faster than the actual default animation. Here's a more [realistic demo](https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.mov?raw=true), if you're interested.
+
 ## Usage
 
 Available commands
