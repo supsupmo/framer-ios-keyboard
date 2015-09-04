@@ -4,8 +4,8 @@ Because sometimes we all need to simulate typing in our framer prototypes.
 ## How to use with Framer Studio
 
 * Create a new Framer project
-* Download `iphone6Keyboard.coffee` and `iphone6Keyboard.jpg`, put both files in the `module` folder of the project
-* At the top of your code, write `keyboard = require "iphone6Keyboard"`
+* Download `iPhone6Keyboard.coffee` and `iPhone6Keyboard.jpg`, put both files in the `module` folder of the project
+* At the top of your code, write `keyboard = require "iPhone6Keyboard"`
 
 ## Demo GIF
 
@@ -19,7 +19,7 @@ Available commands
 
 ```
 # At the top of your code
-keyboard = require "iphone6Keyboard"
+keyboard = require "iPhone6Keyboard"
 
 # Somewhere below
 keyboard.create()       # Creates the keyboard (hidden)
@@ -35,5 +35,7 @@ keyboard.keyPress("j")  # Simulate the pressing of j
 ## Notes
 
 * Currently, `keyPress` supports the `a-z` and `space` keys.
-* Only the iPhone6 keyboard has been implemented. User demand will create motivation for me to create keyboards for the other iPhones as well.
-* The animation curve used for the keyboard show/hide animation is close but not exactly the same as what's on the phone. If anyone knows the actual timing and bezier-curve numbers, please let me know.
+* Only the iPhone 6 keyboard has been implemented. If there's demand, I'll create keyboards for the other iPhones as well.
+* The animation curve used for the keyboard show/hide animation is close but not exactly the same as what's implemented on the phone. If anyone knows the actual timing and bezier-curve numbers, please let me know.
+
+Reach me (@MosesTing)[https://www.twitter.com/mosesting]. Cheers!
